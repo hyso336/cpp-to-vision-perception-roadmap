@@ -170,6 +170,9 @@ Bu akış şeması, 12-perception-node bölümünde geliştirilen projelerin tem
 
 ----
 
+Pair Extraordinaire test contribution
+
+
 # 🚀 Sonuç
 
 Bu repo, C++ temellerinden başlayarak gerçek zamanlı algılama sistemlerinin çekirdek tasarımına uzanan tam kapsamlı bir Perception Roadmap sunar.
